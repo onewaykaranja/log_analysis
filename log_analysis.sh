@@ -1,6 +1,6 @@
 #!/bin/bash
 
-LOG_FILE="/Deskto/githubportfolio/bash/log_analysis/"
+LOG_FILE="/home/karanja/Desktop/githubportfolio/bash/ipblock/blockips.log"
 MANENO=("error" "warning" "failed" )
 ALERT_EMAIL="annmarie747@duck.com"
 
