@@ -1,1 +1,1 @@
-This script monitors and  analyses log files specific events and sends an alert via email 
+This script monitors and  analyses log files failed login attempts and sends an alert via email 
